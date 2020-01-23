@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "title": "Hello world",
+        "content": "This is the first news post created. I am alive."
+    },
+    {
+        "id": 2,
+        "title": "Soy Espanish",
+        "content": "Dale a tu cuerpo alegría Macarena. Que tu cuerpo es pa' darle alegría why cosa buena. Dale a tu cuerpo alegría, Macarena. Hey Macarena"
+    },
+    {
+        "id": 3,
+        "title": "A message from the emperor",
+        "content": "Execute order 66."
+    }
+]

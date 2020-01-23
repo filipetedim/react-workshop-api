@@ -1,0 +1,8 @@
+[
+    {
+        "user": "test",
+        "name": "Flaming Dragon",
+        "password": "test",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoidGVzdCIsIlRPS0VOX1ZFUlNJT04iOjEsImlhdCI6MTU3OTY5NTcxNCwiZXhwIjoxNTgyMzc0MTE0fQ.HK2rS7k3-AAPZOFoBNsD_OTGpaUDQcwMR2vgwktLhoQ"
+    }
+]
